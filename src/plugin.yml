@@ -1,0 +1,9 @@
+name: RankNChat
+description: Server ranking / chatting plugin that monitors both.
+author: Hampion (Lewis)
+version: 1.0.1
+main: com.hampion.plugins.Main
+commands:
+  rank:
+    aliases: [setrank, rankset]
+    description: Set another players rank on the server
